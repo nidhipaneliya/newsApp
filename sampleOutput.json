@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": "Manish Kumar",
+      "title": "India vs New Zealand: Top 5 most memorable T20I encounters",
+      "description": "Cricket News: Team India have most of the time found itself at the receiving end against New Zealand in ICC tournaments. Be it the 2019 ODI World Cup semi-final, th",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/new-zealand-in-india/india-vs-new-zealand-top-5-most-memorable-t20i-encounters/articleshow/87717125.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-87717158,width-1070,height-580,imgsize-79220,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-11-15T11:30:00+00:00",
+      "content": "India vs New Zealand: Top 5 most memorable T20I encounters"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "BBC Sport",
+      "title": "Rashid supports Rafiq's Vaughan claim",
+      "description": "England bowler Adil Rashid is the third player to say he heard Michael Vaughan make a racist comment to a group of Asian cricketers.",
+      "url": "http://www.bbc.co.uk/sport/cricket/59289673",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/12DFA/production/_121560377_gettyimages-1329745320-1.jpg",
+      "publishedAt": "2021-11-15T11:07:27.7349243Z",
+      "content": "Adil Rashid has been at Yorkshire since 2006\r\nEngland bowler Adil Rashid says he heard Michael Vaughan make a racist comment to a group of Asian cricketers, becoming the third player to do so.\r\nRashi… [+4457 chars]"
+    },
+    {
+      "source": { "id": "time", "name": "Time" },
+      "author": "Associated Press",
+      "title": "Australia Beats New Zealand to Claim Cricket's Twenty20 World Cup",
+      "description": "Australia won its first Twenty20 cricket World Cup with an eight-wicket victory over New Zealand in Sunday's final.",
+      "url": "http://time.com/6117606/cricket-twenty20-world-cup/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2021/11/AP21318661620988.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2021-11-15T03:52:02Z",
+      "content": "DUBAI, United Arab Emirates — Mitchell Marsh and David Warner plundered half centuries as Australia won its first Twenty20 cricket World Cup with an eight-wicket victory over New Zealand in Sunday’s … [+3870 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
